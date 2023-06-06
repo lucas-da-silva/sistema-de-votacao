@@ -1,4 +1,4 @@
-package com.trybe.acc.java.sistemadevotacao;
+package com.acc.java.sistemadevotacao;
 
 /**
  * Classe que implementa a classe abstrata Pessoa e constroi um objeto PessoEleitora.

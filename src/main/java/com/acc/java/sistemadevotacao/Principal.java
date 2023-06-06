@@ -1,4 +1,4 @@
-package com.trybe.acc.java.sistemadevotacao;
+package com.acc.java.sistemadevotacao;
 
 import java.util.Scanner;
 
@@ -19,7 +19,7 @@ public class Principal {
    * @param args parâmetro padrão
    */
   public static void main(String[] args) {
-    System.out.println("\n----------- Bem-vindo ao Sistema de Votação -----------\n");
+    System.out.println("----------- Bem-vindo ao Sistema de Votação -----------\n");
     GerenciamentoVotacao gerenciamentoVotacao = new GerenciamentoVotacao();
 
     String pessoa;
