@@ -1,10 +1,47 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1 align="center">Sistema de Votação</h1>
+
+## Sobre o projeto
+
+Desenvolvido em Java com base em Orientação a Objetos, o sistema de votação eletrônico apresenta três fluxos principais:
+
+1. Cadastro de candidatos: Permite registrar informações de pessoas interessadas em se candidatar.
+2. Cadastro de eleitores: Possibilita o registro de informações das pessoas que serão aptas a votar.
+3. Início do processo de votação: Inicia o processo de votação propriamente dito.
+
+## Tecnologias utilizadas
+
+- [Java](https://www.java.com/pt-BR/) - Linguagem de programação
+
+## Funcionalidades
+
+- Adicionar candidatos
+- Adicionar eleitores
+- Votar
+- Mostrar resultado parcial
+- Mostrar resultado final
+
+## Instalação
+
+```bash
+# Clonar Projeto
+$ git clone git@github.com:lucas-da-silva/voting-system.git
+
+# Entrar no diretório
+$ voting-system
+
+# Execute o arquivo `Principal.java` pela IDE
+```
+
+## Estrutura do projeto
+
+```
+$PROJECT_ROOT
+|   # Arquivos de configuração do Maven
+├── .mvn
+|   # Código fonte da aplicação
+└── src
+```
+
+## Autor
+
+- [@lucas-da-silva](https://github.com/lucas-da-silva)
