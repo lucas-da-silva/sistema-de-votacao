@@ -1,5 +1,7 @@
 <h1 align="center">Sistema de Votação</h1>
 
+https://github.com/lucas-da-silva/voting-system/assets/104774396/533b08d4-21cc-450f-ad09-4b8d0fa13cee
+
 ## Sobre o projeto
 
 Desenvolvido em Java com base em Orientação a Objetos, o sistema de votação eletrônico apresenta três fluxos principais:
