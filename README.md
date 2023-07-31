@@ -29,7 +29,7 @@ Desenvolvido em Java com base em Orientação a Objetos, o sistema de votação 
 $ git clone git@github.com:lucas-da-silva/voting-system.git
 
 # Entrar no diretório
-$ voting-system
+$ cd voting-system
 
 # Execute o arquivo `Principal.java` pela IDE
 ```
